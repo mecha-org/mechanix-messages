@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=Mechanix Messages
+Comment=Messages for Mechanix OS
+Exec=mechanix_messages -s 1
+Icon=org.mechanix.messages
+Terminal=false
+Categories=Utility;Chat;
+StartupNotify=true
+StartupWMClass=org.mechanix.messages
